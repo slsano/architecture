@@ -1,0 +1,60 @@
+/*
+*Author: Samuel SANO
+*Email: sanosamuel13@gmail.com;
+*/
+
+
+/*  fonts */
+@font-face {
+    font-family: 'Lexend';
+    src: url('../fonts/LexendDeca-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Amatemora';
+    src: url('../fonts/Amatemora.otf');
+}
+
+@font-face {
+    font-family: 'Amatemora';
+    src: url('../fonts/Amatemora.ttf');
+}
+
+@font-face {
+    font-family: 'Amatemora';
+    src: url('../fonts/Amatemora.woff2');
+}
+
+@font-face {
+    font-family: 'Amatemora';
+    src: url('../fonts/Amatemora.woff');
+}
+
+
+@font-face {
+    src: url('../vendor/font-awesome/fonts/fontawesome-webfont.woff2');
+}
+
+@font-face {
+    src: url('../vendor/font-awesome/fonts/fontawesome-webfont.woff');
+}
+
+@font-face {
+    src: url('../vendor/font-awesome/fonts/fontawesome-webfont.ttf');
+}
+
+@font-face {
+    src: url('../vendor/font-awesome/fonts/fontawesome-webfont.otf');
+}
+
+@font-face {
+    src: url('../vendor/boxicons/fonts/boxicons.woff2');
+}
+
+@font-face {
+    src: url('../vendor/boxicons/fonts/boxicons.woff');
+}
+
+@font-face {
+    src: url('../vendor/boxicons/fonts/boxicons.ttf');
+}
